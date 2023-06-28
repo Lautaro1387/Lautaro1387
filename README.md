@@ -24,7 +24,7 @@
 <h3 align="center">✉ Contact me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/lautaroilla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lautaroilla/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/lautaa_87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lautaa_87/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lautaa_87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lautaa_87/" height="30" width="40" /></a>
 <a href="mailto:lautaro12387@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6788/6788206.png" height="40" width="40" /></a>
 </p>
 <h1></h1>
