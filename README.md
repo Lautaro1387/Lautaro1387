@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lautaro1387&label=Profile%20views&color=0e75b6&style=flat" alt="lautaro1387" /> </p>
-<p align="center"><img src="![image](https://github.com/Lautaro1387/Lautaro1387/assets/88350478/cf6881c3-3896-487e-b8bd-afc14fb0fc74)
+<p align="center"><img src="[![image](https://github.com/Lautaro1387/Lautaro1387/assets/88350478/cf6881c3-3896-487e-b8bd-afc14fb0fc74)](https://github-production-user-asset-6210df.s3.amazonaws.com/88350478/331012177-cf6881c3-3896-487e-b8bd-afc14fb0fc74.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240516%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240516T012714Z&X-Amz-Expires=300&X-Amz-Signature=52fc8b29bf1659de2118cef108fdd2b905f670fd684c1c5405ab198819325776&X-Amz-SignedHeaders=host&actor_id=88350478&key_id=0&repo_id=503109820)
 " alt="lautaro1387" /> </p>
 
 <h3 align="center">🛠 Languages and Tools</h3>
